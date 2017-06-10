@@ -1,7 +1,7 @@
 {
   "name": "imgloader",
   "version": "1.0.0",
-  "description": "Library to load images asynchronously using javascript in browsers.",
+  "description": "Simple, lightweight module to load images asynchronously using javascript in browsers.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

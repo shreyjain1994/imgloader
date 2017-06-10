@@ -15,7 +15,7 @@ currently no standalone js script that can be loaded directly.
 ## Usage
 
 ```javascript
-var IMGLoader = require('IMGLoader');
+var IMGLoader = require('imgloader');
 
 //a description of the images to load
 var manifest = [

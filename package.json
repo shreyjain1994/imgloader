@@ -1,0 +1,15 @@
+{
+  "name": "imgloader",
+  "version": "1.0.0",
+  "description": "Library to load images asynchronously using javascript in browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrey Jain",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shreyjain1994/imgloader.git"
+  }
+}
